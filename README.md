@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQF0JfX00ckf6g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729303944621?e=1735171200&v=beta&t=xP2qRtPZmfd5I0NjiyIuK87HzgfUMcD5cnG4qfL84kc"  />
+  <img height="150" style="border-radius:50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQF0JfX00ckf6g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729303944621?e=1735171200&v=beta&t=xP2qRtPZmfd5I0NjiyIuK87HzgfUMcD5cnG4qfL84kc"  />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejas-130704.tejas-130704&" />
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tejas-130704.tejas-130704" />
 </div>
 
 ###
