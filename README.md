@@ -33,7 +33,6 @@
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -45,23 +44,30 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js logo"  />
   <img width="12" />
-  <!-- Replace with appropriate logo for llm (if none, you can skip it) -->
+  <!-- For LLM (Custom Design or Text) -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo for llm"  />
   <img width="12" />
-  <!-- Replace with appropriate logo for langchain -->
+  <!-- LangChain logo suggestion -->
+  <img src="https://raw.githubusercontent.com/langchain-ai/website/main/static/logo.png" height="40" alt="langchain logo"  />
   <img width="12" />
-  <!-- Replace with appropriate logo for ml -->
+  <!-- ML (Machine Learning) - TensorFlow Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
-  <!-- Replace with appropriate logo for dl -->
+  <!-- DL (Deep Learning) - PyTorch Icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="40" alt="pytorch logo"  />
   <img width="12" />
-  <!-- Replace with appropriate logo for nlp -->
+  <!-- NLP (Natural Language Processing) - spaCy Icon -->
+  <img src="https://spacy.io/static/img/spacy-logo.svg" height="40" alt="spacy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwind logo"  />
+  <!-- Tailwind CSS Logo from official site -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="40" alt="tailwind logo"  />
   <img width="12" />
-  <!-- Replace with appropriate logo for streamlit -->
+  <!-- Streamlit Icon -->
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="streamlit logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
   <img width="12" />
