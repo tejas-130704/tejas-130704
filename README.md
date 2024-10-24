@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.licdn.com/dms/image/v2/D4D03AQF0JfX00ckf6g/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1729303944621?e=1735171200&v=beta&t=xP2qRtPZmfd5I0NjiyIuK87HzgfUMcD5cnG4qfL84kc"  />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejas-130704.tejas-130704&" />
 </div>
 
 ###
@@ -25,8 +25,13 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p align="left">
+  I'm Tejas from Chh. SambhajiNagar.<br><br>
+  - 🔭 I’m studying B.Tech CSE at DIEMS.<br>
+  - 📚 I'm currently learning ML, DL, NLP, AWS, Django, Langchain, LLM, UI/UX, etc.<br>
+  - ⚡ I'm a sketch artist. In my free time, I like to code.
+</p>
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
@@ -46,18 +51,12 @@
   <img width="12" />
   <!-- For LLM (Custom Design or Text) -->
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo for llm"  />
-  <img width="12" />
-  <!-- LangChain logo suggestion -->
-  <img src="https://raw.githubusercontent.com/langchain-ai/website/main/static/logo.png" height="40" alt="langchain logo"  />
-  <img width="12" />
+    <img width="12" />
   <!-- ML (Machine Learning) - TensorFlow Icon -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <!-- DL (Deep Learning) - PyTorch Icon -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <!-- NLP (Natural Language Processing) - spaCy Icon -->
-  <img src="https://spacy.io/static/img/spacy-logo.svg" height="40" alt="spacy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
