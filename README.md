@@ -83,6 +83,10 @@
   <img src="https://streak-stats.demolab.com?user=tejas-130704&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+###
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tejas-130704&theme=react&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=tejas-130704&theme=react&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tejas-130704&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ###
