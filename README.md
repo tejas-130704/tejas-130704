@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Final+Year+B.Tech+CSE;Machine+Learning+%7C+Deep+Learning;NLP+%7C+LLMs+%7C+MLOps;Model+is+still+training...&font=Fira%20Code&center=true&width=650&height=45&color=00D9FF&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Machine+Learning+%7C+Deep+Learning;NLP+%7C+LLMs+%7C+MLOps;Model+is+still+training...&font=Fira%20Code&center=true&width=650&height=45&color=00D9FF&pause=1000&size=22" />
 </div>
 
 ---
@@ -74,14 +74,21 @@
 
 ---
 
-## 🧪 Model Training Status (Very Important)
+## 🧪 Model Training Status
+
+<p align="center">
+ <img src="https://i.sstatic.net/sNf8L.gif" alt="enter image description here">
+</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Model+is+still+training...;Reducing+overfitting...;Generalizing+the+model--&font=Fira%20Code&center=true&width=650&height=45&color=00FF00&pause=1000&size=16" />
+</div>
 
 ```text
-Epochs:        ████████████████████░░░░ 82%
-Loss:          ↓ decreasing
-Overfitting:   under surveillance
-Hope:          low but non-zero
-````
+Status        : RUNNING
+ETA           : unknown
+GPU           : screaming
+Decision      : do not touch anything
+```
 
 ---
 
